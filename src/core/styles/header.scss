@@ -1,0 +1,87 @@
+.mdl-layout__header{
+  background-color: #000000;
+  color: #FFF59D
+
+
+}
+
+
+body{
+  background-image: url("https://www.planwallpaper.com/static/images/7006082-black-pattern-background-14095.jpg") ;
+  background-image: url("https://www.planwallpaper.com/static/images/6955940-blue-pattern-desktop-background_FqyKLQi.jpg") ;
+  background-size:cover;
+}
+
+.demo-card-wide.mdl-card {
+  width: 80%;
+  margin: 0 auto;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+.mdl-card__title{
+  background-color: #212121;
+  margin-top: -50px;
+  .mdl-card__title-text{
+    font-size: 60px;
+    margin: 0 auto;
+    font-family: cursive;
+    color: #FF3F80;
+  }
+}
+
+.mdl-card__subtitle{
+  background-color: #212121;
+
+  .mdl-card__subtitle-text{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+  }
+}
+
+
+.mdl-card__supporting-text{
+  background-color: #212121;
+  color: white;
+  width: 100%;
+}
+
+.mdl-card__supporting-text > p{
+  margin-left: 30px;
+  margin-right: 50px;
+
+}
+
+ul{
+  display: inline !important;
+  margin: 0 auto;
+}
+
+#contact-info{
+  background-color: #212121;
+  color: #3F51B5;
+  text-align: center;
+
+
+}
+
+
+
+.mdl-card__supporting-text p{
+  padding-bottom:-16px;
+}
+#contact-info .material-icons{
+  margin-top:0px;
+  color: #3F51B5 !important;
+
+}
+
+#author{
+  margin: 0 auto;
+}
